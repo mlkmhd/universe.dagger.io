@@ -3,7 +3,7 @@ package mix
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
 
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 #Get: #Run & {

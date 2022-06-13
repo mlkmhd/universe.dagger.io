@@ -4,11 +4,11 @@ package netlify
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
+	"github.com/mlkmhd/dagger.io/dagger/core"
 
-	"universe.dagger.io/alpine"
-	"universe.dagger.io/docker"
-	"universe.dagger.io/bash"
+	"github.com/mlkmhd/universe.dagger.io/alpine"
+	"github.com/mlkmhd/universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/bash"
 )
 
 // Deploy a site to Netlify

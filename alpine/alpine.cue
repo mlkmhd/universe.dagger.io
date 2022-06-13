@@ -2,7 +2,7 @@
 package alpine
 
 import (
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 // Build an Alpine Linux container image

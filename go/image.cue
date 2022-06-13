@@ -1,7 +1,7 @@
 package go
 
 import (
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 // Go image default version

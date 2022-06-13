@@ -2,7 +2,7 @@ package docker
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
+	"github.com/mlkmhd/dagger.io/dagger/core"
 )
 
 // Upload an image to a remote repository

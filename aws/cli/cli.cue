@@ -4,7 +4,7 @@ import (
 	"list"
 	"strings"
 	"encoding/json"
-	"universe.dagger.io/aws"
+	"github.com/mlkmhd/universe.dagger.io/aws"
 )
 
 // Command provides a declarative interface to the AWS CLI

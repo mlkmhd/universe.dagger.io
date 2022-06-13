@@ -2,8 +2,8 @@ package test
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"universe.dagger.io/aws"
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/aws"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 dagger.#Plan & {

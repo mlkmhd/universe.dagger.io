@@ -1,7 +1,7 @@
 package git
 
 import (
-	"dagger.io/dagger/core"
+	"github.com/mlkmhd/dagger.io/dagger/core"
 )
 
 #Pull: core.#GitPull

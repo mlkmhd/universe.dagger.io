@@ -1,1 +1,1 @@
-module: "universe.dagger.io"
+module: "github.com/mlkmhd/universe.dagger.io"

@@ -2,7 +2,7 @@ package cli
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 // See https://github.com/dagger/dagger/discussions/1874

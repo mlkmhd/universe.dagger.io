@@ -3,7 +3,7 @@ package docker
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
+	"github.com/mlkmhd/dagger.io/dagger/core"
 )
 
 // Download an image from a remote registry

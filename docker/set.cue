@@ -1,7 +1,7 @@
 package docker
 
 import (
-	"dagger.io/dagger/core"
+	"github.com/mlkmhd/dagger.io/dagger/core"
 )
 
 // Change image config

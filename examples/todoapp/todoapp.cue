@@ -2,11 +2,11 @@ package todoapp
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
-	"universe.dagger.io/alpine"
-	"universe.dagger.io/bash"
-	"universe.dagger.io/docker"
-	"universe.dagger.io/netlify"
+	"github.com/mlkmhd/dagger.io/dagger/core"
+	"github.com/mlkmhd/universe.dagger.io/alpine"
+	"github.com/mlkmhd/universe.dagger.io/bash"
+	"github.com/mlkmhd/universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/netlify"
 )
 
 dagger.#Plan & {

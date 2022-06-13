@@ -3,8 +3,8 @@ package test
 import (
 	"encoding/json"
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
-	"universe.dagger.io/aws"
+	"github.com/mlkmhd/dagger.io/dagger/core"
+	"github.com/mlkmhd/universe.dagger.io/aws"
 )
 
 dagger.#Plan & {

@@ -4,7 +4,7 @@ import (
 	"list"
 
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
+	"github.com/mlkmhd/dagger.io/dagger/core"
 )
 
 // Run a command in a container

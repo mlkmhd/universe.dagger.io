@@ -2,8 +2,8 @@ package go
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"universe.dagger.io/go"
-	"universe.dagger.io/alpine"
+	"github.com/mlkmhd/universe.dagger.io/go"
+	"github.com/mlkmhd/universe.dagger.io/alpine"
 )
 
 dagger.#Plan & {

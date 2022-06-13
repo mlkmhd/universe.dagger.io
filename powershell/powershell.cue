@@ -3,8 +3,8 @@ package powershell
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/dagger.io/dagger/core"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 // Run a PowerShell (pwsh) script in a Docker container

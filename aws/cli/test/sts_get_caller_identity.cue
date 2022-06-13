@@ -2,9 +2,9 @@ package test
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
-	"universe.dagger.io/aws"
-	"universe.dagger.io/aws/cli"
+	"github.com/mlkmhd/dagger.io/dagger/core"
+	"github.com/mlkmhd/universe.dagger.io/aws"
+	"github.com/mlkmhd/universe.dagger.io/aws/cli"
 )
 
 dagger.#Plan & {

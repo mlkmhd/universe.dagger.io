@@ -1,8 +1,8 @@
 package testutils
 
 import (
-	"universe.dagger.io/bash"
-	"universe.dagger.io/alpine"
+	"github.com/mlkmhd/universe.dagger.io/bash"
+	"github.com/mlkmhd/universe.dagger.io/alpine"
 )
 
 // Assert the text contents available at a URL

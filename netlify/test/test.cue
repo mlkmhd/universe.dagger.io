@@ -2,12 +2,12 @@ package netlify
 
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
+	"github.com/mlkmhd/dagger.io/dagger/core"
 
-	"universe.dagger.io/docker"
-	"universe.dagger.io/netlify"
+	"github.com/mlkmhd/universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/netlify"
 
-	"universe.dagger.io/netlify/test/testutils"
+	"github.com/mlkmhd/universe.dagger.io/netlify/test/testutils"
 )
 
 dagger.#Plan & {

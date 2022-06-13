@@ -3,9 +3,9 @@ package changelog
 import (
 	"github.com/mlkmhd/dagger.io/dagger"
 
-	"universe.dagger.io/docker"
-	"universe.dagger.io/git"
-	"universe.dagger.io/examples/changelog.com/elixir/mix"
+	"github.com/mlkmhd/universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/git"
+	"github.com/mlkmhd/universe.dagger.io/examples/changelog.com/elixir/mix"
 )
 
 dagger.#Plan & {

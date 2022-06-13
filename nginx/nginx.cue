@@ -3,7 +3,7 @@
 package nginx
 
 import (
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 // Build a nginx container image

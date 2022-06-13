@@ -1,8 +1,8 @@
 package cli
 
 import (
-	"dagger.io/dagger/core"
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/dagger.io/dagger/core"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 // Load an image into a docker daemon

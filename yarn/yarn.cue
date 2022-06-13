@@ -5,11 +5,11 @@ import (
 	"strings"
 
 	"github.com/mlkmhd/dagger.io/dagger"
-	"dagger.io/dagger/core"
+	"github.com/mlkmhd/dagger.io/dagger/core"
 
-	"universe.dagger.io/alpine"
-	"universe.dagger.io/bash"
-	"universe.dagger.io/docker"
+	"github.com/mlkmhd/universe.dagger.io/alpine"
+	"github.com/mlkmhd/universe.dagger.io/bash"
+	"github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 #Build: #Run & {
@@ -81,7 +81,7 @@ import (
 					dest:     "/cache/yarn"
 					contents: core.#CacheDir & {
 						// FIXME: are there character limitations in cache ID?
-						id: "universe.dagger.io/yarn.#Run \(name)"
+						id: "github.com/mlkmhd/universe.dagger.io/yarn.#Run \(name)"
 					}
 				}
 
@@ -112,7 +112,7 @@ import (
 					dest:     "/cache/yarn"
 					contents: core.#CacheDir & {
 						// FIXME: are there character limitations in cache ID?
-						id: "universe.dagger.io/yarn.#Run \(name)"
+						id: "github.com/mlkmhd/universe.dagger.io/yarn.#Run \(name)"
 					}
 				}
 
