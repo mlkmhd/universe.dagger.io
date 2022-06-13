@@ -1,7 +1,7 @@
 package test
 
 import (
-	"dagger.io/dagger"
+	"github.com/mlkmhd/dagger.io/dagger"
 
 	"universe.dagger.io/alpine"
 	"universe.dagger.io/bash"

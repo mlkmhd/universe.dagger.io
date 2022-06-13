@@ -1,7 +1,7 @@
 package rawkode_pulumi_example
 
 import (
-	"dagger.io/dagger"
+	"github.com/mlkmhd/dagger.io/dagger"
 	"universe.dagger.io/x/david@rawkode.dev/pulumi"
 )
 

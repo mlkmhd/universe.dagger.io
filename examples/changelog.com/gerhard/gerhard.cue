@@ -1,7 +1,7 @@
 package changelog
 
 import (
-	"dagger.io/dagger"
+	"github.com/mlkmhd/dagger.io/dagger"
 )
 
 dagger.#Plan & {

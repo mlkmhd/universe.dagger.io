@@ -1,7 +1,7 @@
 package go
 
 import (
-	"dagger.io/dagger"
+	"github.com/mlkmhd/dagger.io/dagger"
 )
 
 // Build a go binary
